@@ -1,0 +1,1 @@
+# Kod Asi (Zdjęcia, figury)

@@ -1,0 +1,1 @@
+# Kod Oskara (Skanowanie 360)

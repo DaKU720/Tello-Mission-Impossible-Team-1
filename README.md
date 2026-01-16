@@ -9,7 +9,7 @@ Python-based autonomous flight controller for DJI Tello using `djitellopy`.
 
 **/main-task** `(main drone mission)` Główny folder z naszą misją.
 
-**/side-task** `(extra scripts)` Eksperymentalne skrypty.
+**/dev-taks** `(extra scripts)` Eksperymentalne skrypty.
 
 ## Installation
 ```bash

@@ -1,0 +1,1 @@
+# Kod Daniela (AI / Śledzenie)

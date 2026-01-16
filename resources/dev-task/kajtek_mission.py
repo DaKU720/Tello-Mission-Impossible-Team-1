@@ -1,0 +1,1 @@
+# Kod Kajtka (Długi patrol)
