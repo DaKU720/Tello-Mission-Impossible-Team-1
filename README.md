@@ -3,9 +3,13 @@
 ![Dron Tello](https://i.imgur.com/SifNuvq.png)
 
 **Group:** Team 1
-**Authors:** Dawid, Mateusz, Asia, Oskar, Daniel, Kajtek
+**Authors:** Dawid, Mateusz, Asia, Oskar, Daniel, Kajtek.
 
 Python-based autonomous flight controller for DJI Tello using `djitellopy`.
+
+**/main-task** `(main drone mission)` Główny folder z naszą misją.
+
+**/side-task** `(extra scripts)` Eksperymentalne skrypty.
 
 ## Installation
 ```bash

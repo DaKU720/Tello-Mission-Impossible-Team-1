@@ -1,0 +1,1 @@
+Tutaj bedzie raczej jedna duza petla glownej misji.
