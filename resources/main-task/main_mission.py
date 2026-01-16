@@ -1,1 +1,1 @@
-# Główny skrypt sterujący misją
+# Główny skrypt sterujący misją.
