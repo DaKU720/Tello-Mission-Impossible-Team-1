@@ -27,7 +27,7 @@ def mission_acrobat():
         # Wznoszenie na 1 metr (100 cm)
         # Domyślnie po starcie dron wisi ok. 80-100cm, ale dla pewności korygujemy
         print("Wznoszenie na bezpieczną wysokość (dodatkowe 50cm)...")
-        tello.move_up(50)
+        #tello.move_up(50)
         time.sleep(1)
 
         # Wykonanie Flipa (f=forward, b=back, l=left, r=right)
